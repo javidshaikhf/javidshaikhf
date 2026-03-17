@@ -1,6 +1,6 @@
 # Hi, I'm Javid 👋
 
-📍 **India** | ⚡ **Builder** | 🚀 **iOS → AI Engineer**
+📍 **India** | ⚡ **Builder** | 🚀 **iOS, Full Stack, AI**
 
 ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/-SwiftUI-0062D3?style=flat-square&logo=swift&logoColor=white)
