@@ -47,7 +47,7 @@
 
 ## 📊 GitHub Activity
 
-![GitHub Contribution Graph](https://ghchart.rshah.org/YOUR_USERNAME)
+![GitHub Contribution Graph](https://ghchart.rshah.org/javidshaikhf)
 
 ---
 
