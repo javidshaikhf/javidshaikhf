@@ -20,10 +20,7 @@
 
 ## 🚀 Current Projects
 
-- 🤖 **AI Mock Interview SaaS** – AI-driven interview practice platform  
-- 🎮 **Unity Connection System** – interactive node connection with cable-like drawing  
-- ⚙️ **Backend Systems (Node + Go)** – APIs, distributed systems, experiments  
-- 📱 **Student App (400+ users)** – real-world production app  
+- 🧠 **[CodeMap](https://github.com/javidshaikhf/CodeMap)** – visualize codebases as graphs to understand architecture & dependencies  
 
 ---
 
