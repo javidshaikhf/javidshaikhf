@@ -20,7 +20,7 @@
 
 ## 🚀 Current Projects
 
-- 🧠 **[CodeMap](https://github.com/javidshaikhf/CodeMap)** – visualize codebases as graphs to understand architecture & dependencies  
+- ☋ **[CodeMap](https://github.com/javidshaikhf/CodeMap)** – visualize codebases as graphs to understand architecture & dependencies  
 
 ---
 
